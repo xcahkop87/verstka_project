@@ -34,11 +34,8 @@ p {
 <div class="header"><h1 align="center">Верстка резюме</h1></div>
 <nav>
 	<ul class="top-menu">
-		<li><a href="/home/">HOME</a></li>
-		<li class="active">ABOUT US</li>
-		<li><a href="/services/">SERVICES</a></li>
-		<li><a href="/partners/">PARTNERS</a></li>
-		<li><a href="/customers/">CUSTOMERS</a></li>
+	     <li><a href="/services/">Навыки</a>
+		<li><a href="/forma">Форма обратной связи</a></li>
 <style>
 nav a {
 	text-decoration: none;
@@ -85,7 +82,7 @@ nav li {
 Среднее специальное, Дневная/Очная форма обучения.
 Специальность: Техник по обслуживанию пк и компьютерных сетей</h3>
 </div>
-<div class="footer"><p>© 2010</p></div>
+<div class="footer"><p>Writed by xcahkop</p></div>
 </div>
 </body>
 </html>
