@@ -34,7 +34,7 @@ p {
 <div class="header"><h1 align="center">Верстка резюме</h1></div>
 <nav>
 	<ul class="top-menu">
-	     <li><a href="/services/">Навыки</a>
+	     <li><a href="/skills">Навыки</a>
 		<li><a href="/forma">Форма обратной связи</a></li>
 <style>
 nav a {
