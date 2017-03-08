@@ -1,0 +1,84 @@
+<html>
+<head>
+<title>Пример блочной верстки</title>
+<style type="text/css">
+body {
+	color: #8f8f8f;
+	font: 12px Tahoma, sans-serif;
+	background-color: #f8f8f8;
+	border-top: 5px solid #7e7e7e;
+	margin: 0;
+}
+input[type="text"] {
+	background-color: #f3f3f3;
+	border: 1px solid #e7e7e7;
+	height: 30px;
+	color: #b2b2b2;
+	padding: 0 10px;
+	vertical-align: top;
+}
+button {
+	color: #fff;
+	background-color: #29c5e6;
+	border: none;
+	height: 32px;
+	font-family: 'Oswald', sans-serif;
+}
+p {
+	margin: 20px 0;
+}
+</style>
+</head>
+<body>
+<div id="block">
+<div class="header"><h1 align="center">Верстка резюме</h1></div>
+<nav>
+	<ul class="top-menu">
+	     <li><a href="/services/">Навыки</a>
+		<li><a href="/forma">Форма обратной связи</a></li>
+<style>
+nav a {
+	text-decoration: none;
+}
+
+nav ul {
+	margin: 0;
+	padding: 0;
+}
+
+nav li {
+	list-style-position: inside;
+	font: 14px 'Oswald', sans-serif;
+	padding: 10px;
+}
+
+.top-menu li {
+	display: inline-block;
+	padding: 10px 30px;
+	margin: 0;
+}
+
+.top-menu li.active {
+	background: #29c5e6;
+	color: #fff;
+}
+
+.top-menu a {
+	color: #b2b2b2;
+}
+</style>
+	</ul>
+</nav>
+<div class="right_col">
+<h2>   Навыки и умения</h2>
+<h3>Иностранные языки</h3>
+<h3>Английский (технический).</h3>
+<h3>Профессиональные навыки</h3>
+<h3>Отличное знание Пк и прикладных программ, опыт ремонта программной и аппаратной части пк, основы работы с графическими программами, средние знания английского языка. Уверенный пользователь LINUX, 3ds max, Photoshop, html.
+Знание веб-технологий html, основ JavaScript, принципов работы протокола HTTP.
+Немного опыта написания статей на различные темы.</h3>
+</div>
+<div class="footer"><p>Writed by xcahkop</p></div>
+</div>
+</body>
+</html>
